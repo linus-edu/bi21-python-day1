@@ -1,2 +1,3 @@
-# bi21-python-day1
-Example files for day 1 - Introduction
+# Day 1 - Introduction
+
+Example files to test out our development environment
